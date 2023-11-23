@@ -82,13 +82,13 @@
           <schemaVersion>v2</schemaVersion>
           <subscriptionId>16cfc856-c2f1-4103-80c3-8deba1743963</subscriptionId>  
           <resourceGroup>rg_trainee_02</resourceGroup>  
-          <appName>af-klm-az-204-webapp-02</appName>  
+          <appName>af-klm-az-204-webapp-02-01</appName>  
           <pricingTier>B1</pricingTier>  
           <region>westeurope</region>  
-          <appServicePlanName>af-klm-az-204-asp-02</appServicePlanName>  
+          <appServicePlanName>ASP-rgtrainee02-9e7f</appServicePlanName>  
           <appServicePlanResourceGroup>rg_trainee_02</appServicePlanResourceGroup>  
           <runtime> 
-            <os>Windows</os>  
+            <os>Linux</os>  
             <javaVersion>Java 17</javaVersion> 
             <webContainer>Java SE</webContainer>
           </runtime>
