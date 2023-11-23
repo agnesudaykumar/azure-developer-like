@@ -22,7 +22,7 @@ public class FormController {
 	@Value("${app.title}")
 	private String appTitle;
 
-	@Value("${azure.storage.sas.token}")
+	@Value("${azure.storage.sastoken}")
 	private String sasToken;
 
 	@Autowired
